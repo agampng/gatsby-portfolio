@@ -1,14 +1,14 @@
 module.exports = {
   //-- SITE SETTINGS -----
-  author: "@konstantinmuenster",
-  siteTitle: "Konstantin Münster Portfolio",
-  siteShortTitle: "km.", // Used as logo text in header, footer, and splash screen
+  author: "@agampng",
+  siteTitle: "Mahisa Agni Portfolio",
+  siteShortTitle: "@agampng", // Used as logo text in header, footer, and splash screen
   siteDescription:
-    "Hi there! I'm Konstantin Münster, a product manager and freelance web developer based in Hamburg.",
-  siteUrl: "https://konstantin.digital",
+    "Hi there! I'm Mahisa Agni Satria P., a freelance mobile and web developer based in Indonesia.",
+  siteUrl: "https://agampng.digital",
   siteLanguage: "en_US",
   siteIcon: "content/favicon.png", // Relative to gatsby-config file
-  seoTitleSuffix: "Konstantin Münster", // SEO title syntax will be e.g. "Imprint - {seoTitleSuffix}"
+  seoTitleSuffix: "Mahisa Agni Satria", // SEO title syntax will be e.g. "Imprint - {seoTitleSuffix}"
 
   // -- THEME SETTINGS -----
   colors: {
@@ -53,20 +53,16 @@ module.exports = {
   // Medium, GitHub, LinkedIn, XING, Behance
   socialMedia: [
     {
-      name: "Xing",
-      url: "https://www.xing.com/profile/Konstantin_Muenster",
-    },
-    {
       name: "Linkedin",
-      url: "https://www.linkedin.com/in/konstantin-muenster/",
-    },
-    {
-      name: "Medium",
-      url: "https://medium.com/@konstantin.muenster",
+      url: "https://www.linkedin.com/in/mahisaagam/",
     },
     {
       name: "Github",
-      url: "https://github.com/konstantinmuenster",
+      url: "https://github.com/agampng",
+    },
+    {
+      name: "Telegram",
+      url: "https://t.me/agampng",
     },
     // {
     //     name: "Behance",
@@ -77,10 +73,10 @@ module.exports = {
   //-- NAVIGATION SETTINGS -----
   navLinks: {
     menu: [
-      {
-        name: "Articles",
-        url: "/#articles",
-      },
+      // {
+      //   name: "Articles",
+      //   url: "/#articles",
+      // },
       {
         name: "About Me",
         url: "/#about",
@@ -96,13 +92,13 @@ module.exports = {
     },
   },
   footerLinks: [
-    {
-      name: "Privacy",
-      url: "/privacy",
-    },
-    {
-      name: "Imprint",
-      url: "/imprint",
-    },
+    // {
+    //   name: "Privacy",
+    //   url: "/privacy",
+    // },
+    // {
+    //   name: "Imprint",
+    //   url: "/imprint",
+    // },
   ],
 }
