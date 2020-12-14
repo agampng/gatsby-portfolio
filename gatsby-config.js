@@ -9,6 +9,7 @@ const {
 } = require("./config")
 
 module.exports = {
+  pathPrefix: "/gatsby-portfolio",
   siteMetadata: {
     title: siteTitle,
     description: siteDescription,
