@@ -1,0 +1,80 @@
+## Created with gatsby-plugin-netlify
+
+/*
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+/component---node-modules-gatsby-plugin-offline-app-shell-js-1019110dddd354e6e07c.js
+  Cache-Control: public, max-age=31536000, immutable
+/styles.f31ffd46c488da3c3a04.css
+  Cache-Control: public, max-age=31536000, immutable
+/styles-7d4153d260c0197f0043.js
+  Cache-Control: public, max-age=31536000, immutable
+/05d954cf-18582791c9be0dd2a0d3.js
+  Cache-Control: public, max-age=31536000, immutable
+/ed1a4e20376484a7c9ab9310b06e3fb2253ed220-13700c3a239d722b6769.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-404-js-075a517fa73ad279c350.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-imprint-js-9168079245cd33c643a8.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-index-js-5649b101ead9b4a9ad93.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-privacy-js-576a93254a23e58bf517.js
+  Cache-Control: public, max-age=31536000, immutable
+/webpack-runtime-ad1c02396eef33ac287a.js
+  Cache-Control: public, max-age=31536000, immutable
+/framework-b123e5bed04722485b93.js
+  Cache-Control: public, max-age=31536000, immutable
+/app-7d473148f4e225a9af75.js
+  Cache-Control: public, max-age=31536000, immutable
+/static/*
+  Cache-Control: public, max-age=31536000, immutable
+/sw.js
+  Cache-Control: no-cache
+/gatsby-portfolio/offline-plugin-app-shell-fallback/
+  Link: </gatsby-portfolio/webpack-runtime-ad1c02396eef33ac287a.js>; rel=preload; as=script
+  Link: </gatsby-portfolio/framework-b123e5bed04722485b93.js>; rel=preload; as=script
+  Link: </gatsby-portfolio/app-7d473148f4e225a9af75.js>; rel=preload; as=script
+  Link: </gatsby-portfolio/component---node-modules-gatsby-plugin-offline-app-shell-js-1019110dddd354e6e07c.js>; rel=preload; as=script
+/gatsby-portfolio/404/
+  Link: </gatsby-portfolio/webpack-runtime-ad1c02396eef33ac287a.js>; rel=preload; as=script
+  Link: </gatsby-portfolio/framework-b123e5bed04722485b93.js>; rel=preload; as=script
+  Link: </gatsby-portfolio/app-7d473148f4e225a9af75.js>; rel=preload; as=script
+  Link: </gatsby-portfolio/styles-7d4153d260c0197f0043.js>; rel=preload; as=script
+  Link: </gatsby-portfolio/05d954cf-18582791c9be0dd2a0d3.js>; rel=preload; as=script
+  Link: </gatsby-portfolio/ed1a4e20376484a7c9ab9310b06e3fb2253ed220-13700c3a239d722b6769.js>; rel=preload; as=script
+  Link: </gatsby-portfolio/component---src-pages-404-js-075a517fa73ad279c350.js>; rel=preload; as=script
+/gatsby-portfolio/imprint/
+  Link: </gatsby-portfolio/webpack-runtime-ad1c02396eef33ac287a.js>; rel=preload; as=script
+  Link: </gatsby-portfolio/framework-b123e5bed04722485b93.js>; rel=preload; as=script
+  Link: </gatsby-portfolio/app-7d473148f4e225a9af75.js>; rel=preload; as=script
+  Link: </gatsby-portfolio/styles-7d4153d260c0197f0043.js>; rel=preload; as=script
+  Link: </gatsby-portfolio/05d954cf-18582791c9be0dd2a0d3.js>; rel=preload; as=script
+  Link: </gatsby-portfolio/ed1a4e20376484a7c9ab9310b06e3fb2253ed220-13700c3a239d722b6769.js>; rel=preload; as=script
+  Link: </gatsby-portfolio/component---src-pages-imprint-js-9168079245cd33c643a8.js>; rel=preload; as=script
+/gatsby-portfolio/
+  Link: </gatsby-portfolio/webpack-runtime-ad1c02396eef33ac287a.js>; rel=preload; as=script
+  Link: </gatsby-portfolio/framework-b123e5bed04722485b93.js>; rel=preload; as=script
+  Link: </gatsby-portfolio/app-7d473148f4e225a9af75.js>; rel=preload; as=script
+  Link: </gatsby-portfolio/styles-7d4153d260c0197f0043.js>; rel=preload; as=script
+  Link: </gatsby-portfolio/05d954cf-18582791c9be0dd2a0d3.js>; rel=preload; as=script
+  Link: </gatsby-portfolio/ed1a4e20376484a7c9ab9310b06e3fb2253ed220-13700c3a239d722b6769.js>; rel=preload; as=script
+  Link: </gatsby-portfolio/component---src-pages-index-js-5649b101ead9b4a9ad93.js>; rel=preload; as=script
+/gatsby-portfolio/privacy/
+  Link: </gatsby-portfolio/webpack-runtime-ad1c02396eef33ac287a.js>; rel=preload; as=script
+  Link: </gatsby-portfolio/framework-b123e5bed04722485b93.js>; rel=preload; as=script
+  Link: </gatsby-portfolio/app-7d473148f4e225a9af75.js>; rel=preload; as=script
+  Link: </gatsby-portfolio/styles-7d4153d260c0197f0043.js>; rel=preload; as=script
+  Link: </gatsby-portfolio/05d954cf-18582791c9be0dd2a0d3.js>; rel=preload; as=script
+  Link: </gatsby-portfolio/ed1a4e20376484a7c9ab9310b06e3fb2253ed220-13700c3a239d722b6769.js>; rel=preload; as=script
+  Link: </gatsby-portfolio/component---src-pages-privacy-js-576a93254a23e58bf517.js>; rel=preload; as=script
+/gatsby-portfolio/404.html
+  Link: </gatsby-portfolio/webpack-runtime-ad1c02396eef33ac287a.js>; rel=preload; as=script
+  Link: </gatsby-portfolio/framework-b123e5bed04722485b93.js>; rel=preload; as=script
+  Link: </gatsby-portfolio/app-7d473148f4e225a9af75.js>; rel=preload; as=script
+  Link: </gatsby-portfolio/styles-7d4153d260c0197f0043.js>; rel=preload; as=script
+  Link: </gatsby-portfolio/05d954cf-18582791c9be0dd2a0d3.js>; rel=preload; as=script
+  Link: </gatsby-portfolio/ed1a4e20376484a7c9ab9310b06e3fb2253ed220-13700c3a239d722b6769.js>; rel=preload; as=script
+  Link: </gatsby-portfolio/component---src-pages-404-js-075a517fa73ad279c350.js>; rel=preload; as=script
