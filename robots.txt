@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://agampng.digital/sitemap.xml
+Host: https://agampng.digital
